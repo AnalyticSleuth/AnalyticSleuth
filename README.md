@@ -48,7 +48,8 @@
 ### 🐍 Python for Financial Forecasting  
 🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
 📊 **Data Visualization** – Creating insightful visuals using Pandas & Matplotlib  
-📌 Stored in [`Python-Data-Analysis`](#)  
+📌 Stored in [`Python-Data-Analysis`](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+
 
 ### 📊 Power BI Dashboards  
 🖥️ **Interactive Visuals** – Designed dynamic dashboards for financial storytelling  
