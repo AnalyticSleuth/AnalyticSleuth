@@ -81,6 +81,10 @@ this portfolio showcases my work in **SQL, Python, Power BI, and Power Platform*
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shilla_s@hotmail.com) 
 
+<p align="center">
+  <img src="https://github.com/AnalyticSleuth/test-file/blob/main/images/Animation%20-%201749133094098.gif" alt="Animated Preview">
+</p>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
