@@ -53,7 +53,6 @@
 ### 📊 Power BI Dashboards  
 🖥️ **Interactive Visuals** – Designed dynamic dashboards for financial storytelling  
 🔮 **Trend Insights** – Identifying patterns for better business decision-making  
-📌 Stored in [`PowerBI-Dashboards`](#)  
 📌 Stored in [PowerBI-Dashboards](https://github.com/AnalyticSleuth/PowerBI-Dashboards-)
 
 
