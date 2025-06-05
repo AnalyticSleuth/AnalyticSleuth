@@ -54,7 +54,7 @@
 ### 📊 PowerPoint  
 - 🎨 **Financial visualization** – Best practices for charts, graphs & infographics  
 - 🔮 **Executive summaries** – Concise, impactful messaging for stakeholders  
-- 📌 Stored in [PowerPoint](https)
+- 📌 Stored in [PowerPoint](https://github.com/AnalyticSleuth/Financial_Presentation-Design)
 
 
 ### 📊 Power BI Dashboards  
