@@ -52,9 +52,9 @@
 
 
 ### 📊 PowerPoint  
-🎨 ***Financial visualization** – Best practices for charts, graphs & infographics   
-🔮 **Executive summaries** – Concise, impactful messaging for stakeholders 
-📌 Stored in [PowerPoint](https)
+- 🎨 **Financial visualization** – Best practices for charts, graphs & infographics  
+- 🔮 **Executive summaries** – Concise, impactful messaging for stakeholders  
+- 📌 Stored in [PowerPoint](https)
 
 
 ### 📊 Power BI Dashboards  
