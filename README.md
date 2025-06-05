@@ -43,7 +43,7 @@
 ### 🛠️ SQL for Financial Data Analysis  
 📑 **Database Optimization** – Structured queries for trend analysis & KPI reporting  
 🔍 **Data Cleansing** – Transforming datasets for accurate financial insights  
-📌 Stored in [`SQL-Scripts`](#)  
+📌 Stored in [`SQL-Scripts`](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 ### 🐍 Python for Financial Forecasting  
 🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
