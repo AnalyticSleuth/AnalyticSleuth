@@ -51,7 +51,7 @@
 📌 Stored in [Python-Data-Analysis](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 
-### 📊 PowerPoint  
+### 📈 PowerPoint  
 - 🎨 **Financial visualization** – Best practices for charts, graphs & infographics  
 - 🔮 **Executive summaries** – Concise, impactful messaging for stakeholders  
 - 📌 Stored in [PowerPoint](https://github.com/AnalyticSleuth/Financial_Presentation-Design)
