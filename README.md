@@ -146,7 +146,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnalyticSleuth&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnalyticSleuth&theme=radical&no-frame=true&no-bg=true&margin-w=10">
 </p>
 
 ---
@@ -159,14 +159,12 @@
 
 ---
 
-<h2 align="center">💰 Support Me</h2>
-
-<p align="center">
+<h2 align="center"> Support Me
   <a href="https://paypal.me/shilla_s@hotmail.com">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="200px">
-  </a>
-</p>
-
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="100px">
+  </a> 
+  </h2>
+  
 <p align="center">
   <img src="https://github.com/AnalyticSleuth/test-file/blob/main/images/Animation%20-%201749133094098.gif" alt="Animated Preview">
 </p>
