@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnalyticSleuth/test-file/blob/main/images/Animation%20-%201749134415729.gif?raw=true">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/AnalyticSleuth/test-file/main/images/Animation%20-%201749134415729.gif" alt="Animated GIF">
 </p>
 
 
