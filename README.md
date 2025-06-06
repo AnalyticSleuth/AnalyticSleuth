@@ -80,35 +80,46 @@
 <h2 align="center">📌 How to View My Work 💡</h2>
 
 📝 **SQL & Python Scripts** – Browse individual files  
-📈 **PowerPoint ** - Check the `PowerPoint` folder for screenshots 
+
+📈 **PowerPoint** – Check the `PowerPoint` folder for screenshots  
+
 📊 **Power BI Dashboards** – Check the `PowerBI-Dashboards` folder for screenshots  
+
 🚀 **Interactive Reports** – Public versions shared via Power BI Service (Coming Soon)  
-📽️ **Project Demos** – Video walkthroughs for PowerApps & dashboards  (Coming Soon)
+
+📽️ **Project Demos** – Video walkthroughs for PowerApps & dashboards (Coming Soon)  
+
 
 ---
 
 <h2 align="center">🔗 Connect & Learn More 💡</h2>
 
-👀 Interested in **FBP & Financial Analysis roles**  
-📫 Find me on:  
-🌍 [LinkedIn Profile](http://www.linkedin.com/in/shilla)  
+<p align="center">
+👀 Interested in FBP & Financial Analysis roles  
+</p>
 
-🕵️‍♂️ Sleuthing through financial data with precision & flair—because analytics should never be boring! 🔍  
-
----
-
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Socials Find me on: 📫 </h2>
 
 <p align="center">
+  
   <a href="https://linkedin.com/in/shilla">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
+  
   <a href="mailto:shilla_s@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
+
+<a href="https://www.datacamp.com/portfolio/shillasolanki" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp-00874F?logo=datacamp&logoColor=white">
+</a>
 </p>
 
+<p align="center">
+🕵️‍♂️ Sleuthing through financial data with precision & flair—because analytics should never be boring! 🔍  
+</p>
 ---
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
