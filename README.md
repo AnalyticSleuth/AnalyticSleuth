@@ -43,12 +43,12 @@
 ### 🛠️ SQL for Financial Data Analysis  
 📑 **Database Optimization** – Structured queries for trend analysis & KPI reporting  
 🔍 **Data Cleansing** – Transforming datasets for accurate financial insights  
-📌 Stored in [`SQL-Scripts`](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+📌 Stored in [SQL-Scripts](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 ### 🐍 Python for Financial Forecasting  
 🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
 📊 **Data Visualization** – Creating insightful visuals using Pandas & Matplotlib  
-📌 Stored in [`Python-Data-Analysis`](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+📌 Stored in [Python-Data-Analysis](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 
 ### 📊 PowerPoint  
@@ -60,14 +60,14 @@
 ### 📊 Power BI Dashboards  
 🖥️ **Interactive Visuals** – Designed dynamic dashboards for financial storytelling  
 🔮 **Trend Insights** – Identifying patterns for better business decision-making  
-📌 Stored in [PowerBI-Dashboards](https://github.com/AnalyticSleuth/PowerBI-Dashboards-)
+📌 Stored in [PowerBI-Dashboards](https://github.com/AnalyticSleuth/PowerBI-Dashboards)
 
 
 
 ### ⚙️ Power Platform & Process Automation  
 📜 **Workflow Efficiency** – Developed **PowerApps** to streamline reporting processes  
 🔗 **Automation** – Integrated **advanced financial tracking methods**  
-📌 Stored in [`PowerPlatform-Apps`](#)  
+📌 Stored in [PowerPlatform-Basics](https://github.com/AnalyticSleuth/PowerPlatform-Basics.git)  
 
 ---
 
