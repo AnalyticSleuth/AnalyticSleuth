@@ -41,14 +41,14 @@
 <h2 align="center">📂 Project Highlights 💡</h2>
 
 ### 🛠️ SQL for Financial Data Analysis  
-📑 **Database Optimization** – Structured queries for trend analysis & KPI reporting  
-🔍 **Data Cleansing** – Transforming datasets for accurate financial insights  
-📌 Stored in [SQL-Scripts](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+- 📑 **Database Optimization** – Structured queries for trend analysis & KPI reporting  
+- 🔍 **Data Cleansing** – Transforming datasets for accurate financial insights  
+- 📌 Stored in [SQL-Scripts](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 ### 🐍 Python for Financial Forecasting  
-🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
-📊 **Data Visualization** – Creating insightful visuals using Pandas & Matplotlib  
-📌 Stored in [Python-Data-Analysis](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+- 🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
+- 📊 **Data Visualization** – Creating insightful visuals using Pandas & Matplotlib  
+- 📌 Stored in [Python-Data-Analysis](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
 
 
 ### 📈 PowerPoint  
@@ -58,16 +58,16 @@
 
 
 ### 📊 Power BI Dashboards  
-🖥️ **Interactive Visuals** – Designed dynamic dashboards for financial storytelling  
-🔮 **Trend Insights** – Identifying patterns for better business decision-making  
-📌 Stored in [PowerBI-Dashboards](https://github.com/AnalyticSleuth/PowerBI-Dashboards)
+- 🖥️ **Interactive Visuals** – Designed dynamic dashboards for financial storytelling  
+- 🔮 **Trend Insights** – Identifying patterns for better business decision-making  
+- 📌 Stored in [PowerBI-Dashboards](https://github.com/AnalyticSleuth/PowerBI-Dashboards)
 
 
 
 ### ⚙️ Power Platform & Process Automation  
-📜 **Workflow Efficiency** – Developed **PowerApps** to streamline reporting processes  
-🔗 **Automation** – Integrated **advanced financial tracking methods**  
-📌 Stored in [PowerPlatform-Basics](https://github.com/AnalyticSleuth/PowerPlatform-Basics.git)  
+- 📜 **Workflow Efficiency** – Developed **PowerApps** to streamline reporting processes  
+- 🔗 **Automation** – Integrated **advanced financial tracking methods**  
+- 📌 Stored in [PowerPlatform-Basics](https://github.com/AnalyticSleuth/PowerPlatform-Basics.git)  
 
 ---
 
@@ -136,9 +136,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="30%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AnalyticSleuth&theme=ambient_gradient&hide_border=true" width="30%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="50%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnalyticSleuth&theme=ambient_gradient&hide_border=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%">
 </p>
 
 ---
