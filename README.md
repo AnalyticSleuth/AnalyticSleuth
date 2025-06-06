@@ -80,9 +80,10 @@
 <h2 align="center">📌 How to View My Work 💡</h2>
 
 📝 **SQL & Python Scripts** – Browse individual files  
+📈 **PowerPoint ** - Check the `PowerPoint` folder for screenshots 
 📊 **Power BI Dashboards** – Check the `PowerBI-Dashboards` folder for screenshots  
-🚀 **Interactive Reports** – Public versions shared via Power BI Service (if applicable)  
-📽️ **Project Demos** – Video walkthroughs for PowerApps & dashboards  
+🚀 **Interactive Reports** – Public versions shared via Power BI Service (Coming Soon)  
+📽️ **Project Demos** – Video walkthroughs for PowerApps & dashboards  (Coming Soon)
 
 ---
 
