@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa4460249a0/images/Animation%20-%201749133072046.gif" width="250px">
+ <img src= https://github.com/AnalyticSleuth/AnalyticSleuth/blob/0ebb6b37608b531e1d9c32930c761715b38cb15f/Animation%20-%201749133072046.gif width="250px">
 </p>
 
 <h2 align="center">📂 Project Highlights 💡</h2>
@@ -68,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa4460249a0/images/Animation%20-%201749133316821.gif" alt="Animated Preview">
+  <img src="https://github.com/AnalyticSleuth/AnalyticSleuth/blob/0ebb6b37608b531e1d9c32930c761715b38cb15f/Animation%20-%201749133316821.gif" alt="Animated Preview">
 </p>
 
 ---
@@ -162,7 +163,7 @@
   </h2>
   
 <p align="center">
-  <img src="https://github.com/AnalyticSleuth/test-file/blob/main/images/Animation%20-%201749133094098.gif" alt="Animated Preview">
+  <img src="https://github.com/AnalyticSleuth/AnalyticSleuth/blob/0ebb6b37608b531e1d9c32930c761715b38cb15f/Animation%20-%201749133094098.gif" alt="Animated Preview">
 </p>
 
 
