@@ -40,12 +40,12 @@
 ### 🛠️ SQL for Financial Data Analysis  
 - 📑 **Database Optimization** – Structured queries for trend analysis & KPI reporting  
 - 🔍 **Data Cleansing** – Transforming datasets for accurate financial insights  
-- 📌 Stored in [SQL-Scripts](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+- 📌 Stored in [SQL-Scripts](https://github.com/AnalyticSleuth/SQL-And-Python/tree/ec0a2d01466faebcbb3f7c8214ca8bbed05ad5d2/SQL%20/Adventureworks%20)
 
 ### 🐍 Python for Financial Forecasting  
 - 🔍 **Predictive Models** – Forecasting revenue & cost trends using data science techniques  
 - 📊 **Data Visualization** – Creating insightful visuals using Pandas & Matplotlib  
-- 📌 Stored in [Python-Data-Analysis](https://github.com/AnalyticSleuth/AdventureWorks-Analysis/blob/89e1eb50d8d946e14a91a5e98346fc1ed3e3cf9c/README.md)  
+- 📌 Stored in [JupyterNB](https://github.com/AnalyticSleuth/SQL-And-Python/tree/ec0a2d01466faebcbb3f7c8214ca8bbed05ad5d2/JupyterNB) 
 
 
 ### 📈 PowerPoint  
