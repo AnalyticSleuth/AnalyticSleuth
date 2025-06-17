@@ -1,22 +1,55 @@
-<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for text -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0033A0"/> <!-- Royal Blue -->
+      <stop offset="50%" stop-color="#0055FF"/>
+      <stop offset="100%" stop-color="#0033A0"/>
+    </linearGradient>
+
+    <!-- Gradient for fluid shape -->
+    <radialGradient id="shapeGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffcc5c"/>
+      <stop offset="100%" stop-color="#ff6b6b"/>
+    </radialGradient>
+  </defs>
+
   <style>
-    @keyframes rotate {
-      0% { transform: rotateY(0deg); }
-      100% { transform: rotateY(360deg); }
+    @keyframes morph {
+      0% { d: path("M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"); }
+      50% { d: path("M 50,90 Q 80,30 110,50 T 170,90 Q 140,170 110,150 T 50,90"); } /* Morph into a circle */
+      100% { d: path("M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"); }
     }
-    .box {
-      fill: pink;
+
+    @keyframes textMove {
+      0% { transform: translate(0px, 0px); }
+      50% { transform: translate(10px, -10px); }
+      100% { transform: translate(0px, 0px); }
+    }
+
+    .fluid {
+      fill: url(#shapeGradient);
       stroke: #d63384;
       stroke-width: 3;
-      transform-origin: center;
-      animation: rotate 5s infinite linear;
+      animation: morph 4s infinite ease-in-out;
+    }
+
+    .moving-text {
+      font-size: 20px;
+      text-anchor: middle;
+      fill: url(#textGradient);
+      animation: textMove 4s infinite ease-in-out;
     }
   </style>
-  <rect class="box" x="25" y="25" width="100" height="100" rx="10"/>
-  <text x="50%" y="50%" font-size="16" text-anchor="middle" fill="black" dy=".3em">
-    <tspan>Visitors:</tspan>
+
+  <!-- Fluid shape morphing into a circle -->
+  <path class="fluid" d="M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"/>
+
+  <!-- Animated text with royal blue gradient -->
+  <text x="50%" y="50%" class="moving-text">
+    <tspan>Count:</tspan>
     <tspan x="50%" dy="1.2em">
-      <image href="https://profile-counter.glitch.me/analyticsleuth/count.svg" width="80" height="20"/>
+      <image href="https://profile-counter.glitch.me/analyticsleuth/count.svg" width="100" height="30"/>
     </tspan>
   </text>
 </svg>
