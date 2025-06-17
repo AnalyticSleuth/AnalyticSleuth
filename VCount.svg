@@ -1,0 +1,22 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes rotate {
+      0% { transform: rotateY(0deg); }
+      100% { transform: rotateY(360deg); }
+    }
+    .box {
+      fill: pink;
+      stroke: #d63384;
+      stroke-width: 3;
+      transform-origin: center;
+      animation: rotate 5s infinite linear;
+    }
+  </style>
+  <rect class="box" x="25" y="25" width="100" height="100" rx="10"/>
+  <text x="50%" y="50%" font-size="16" text-anchor="middle" fill="black" dy=".3em">
+    <tspan>Visitors:</tspan>
+    <tspan x="50%" dy="1.2em">
+      <image href="https://profile-counter.glitch.me/analyticsleuth/count.svg" width="80" height="20"/>
+    </tspan>
+  </text>
+</svg>
