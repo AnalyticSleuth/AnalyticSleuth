@@ -129,11 +129,6 @@
 </p>
 
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/AnalyticSleuth/AnalyticSleuth/main/VCount.svg" width="150">
-</p>
-
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -144,7 +139,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%">
 </p>
 
-![Visitor Count](https://raw.githubusercontent.com/analyticsleuth/VCount/main/vcount.svg)
 
 ---
 
@@ -175,6 +169,9 @@
   <img src="https://github.com/AnalyticSleuth/AnalyticSleuth/blob/0ebb6b37608b531e1d9c32930c761715b38cb15f/Animation%20-%201749133094098.gif" alt="Animated Preview">
 </p>
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/AnalyticSleuth/AnalyticSleuth/main/VCount.svg" width="150">
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) for the stats models-->
