@@ -18,5 +18,7 @@ As a novice, structured guidance is essential—I couldn’t have done this alon
 - [Flaticon Animated Icons](https://www.flaticon.com/free-animated-icon/rocket_6172512)  
 - [GitHub Profile ReadMe Generator](https://gprm.itsvg.in)  
 - [Dev.to Aesthetics Guide](https://dev.to/annavi11arrea1/github-page-aesthetics-and-fun-snake-stats-icons-and-videos-1dd7)
-
-- 
+- [DataCamp](datacamp.com)
+- [SQL for Data Analysis](https://www.youtube.com/watch?v=7mz73uXD9DA)
+- [Kaggle Datasets](https://www.kaggle.com)
+- [W3School Cheatsheets](https://www.w3schools.com/sql) 
