@@ -138,15 +138,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticSleuth&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%">
 </p>
 
-<div style="width: 150px; height: 150px; background: pink; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 16px; transform: rotateY(0deg); animation: rotateBox 5s infinite linear;">
-    <img src="https://profile-counter.glitch.me/analyticsleuth/count.svg" alt="Visitor Count">
-</div>
-<style>
-@keyframes rotateBox {
-    0% { transform: rotateY(0deg); }
-    100% { transform: rotateY(360deg); }
-}
-</style>
+![Visitor Count](https://raw.githubusercontent.com/analyticsleuth/VCount/main/vcount.svg)
 
 ---
 
