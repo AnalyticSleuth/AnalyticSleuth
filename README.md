@@ -128,6 +128,12 @@
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white">
 </p>
 
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/AnalyticSleuth/AnalyticSleuth/main/VCount.svg" width="150">
+</p>
+
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
