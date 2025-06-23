@@ -167,7 +167,7 @@
   
 <p align="center">
   <img src="https://github.com/AnalyticSleuth/AnalyticSleuth/blob/0ebb6b37608b531e1d9c32930c761715b38cb15f/Animation%20-%201749133094098.gif" alt="Animated Preview">
-  <img src="https://raw.githubusercontent.com/AnalyticSleuth/AnalyticSleuth/main/VCount.svg" width="150">
+  <img src="https://raw.githubusercontent.com/AnalyticSleuth/AnalyticSleuth/main/VCount.svg" width="200">
 </p>
 
 <p align="center">
