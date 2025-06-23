@@ -1,55 +1,57 @@
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Gradient for text -->
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0033A0"/> <!-- Royal Blue -->
-      <stop offset="50%" stop-color="#0055FF"/>
-      <stop offset="100%" stop-color="#0033A0"/>
-    </linearGradient>
-
-    <!-- Gradient for fluid shape -->
-    <radialGradient id="shapeGradient" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffcc5c"/>
-      <stop offset="100%" stop-color="#ff6b6b"/>
+    <radialGradient id="pinkGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffc0cb" />
+      <stop offset="100%" stop-color="#ff69b4" />
     </radialGradient>
+
+    <filter id="spinner-glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="glow"/>
+      <feBlend in="SourceGraphic" in2="glow"/>
+    </filter>
+
+    <!-- Paths for motion -->
+    <path id="pathLarge" d="M70,100 A30,30 0 1,1 100,100 A30,30 0 1,1 70,100" fill="none"/>
+    <path id="pathSmall" d="M140,100 A30,30 0 1,0 170,100 A30,30 0 1,0 140,100" fill="none"/>
   </defs>
 
   <style>
-    @keyframes morph {
-      0% { d: path("M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"); }
-      50% { d: path("M 50,90 Q 80,30 110,50 T 170,90 Q 140,170 110,150 T 50,90"); } /* Morph into a circle */
-      100% { d: path("M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"); }
+    .circle {
+      fill: url(#pinkGradient);
+      stroke: #e60073;
+      stroke-width: 4;
+      filter: url(#spinner-glow);
     }
 
-    @keyframes textMove {
-      0% { transform: translate(0px, 0px); }
-      50% { transform: translate(10px, -10px); }
-      100% { transform: translate(0px, 0px); }
-    }
-
-    .fluid {
-      fill: url(#shapeGradient);
-      stroke: #d63384;
-      stroke-width: 3;
-      animation: morph 4s infinite ease-in-out;
-    }
-
-    .moving-text {
-      font-size: 20px;
+    .label {
+      fill: white;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
       text-anchor: middle;
-      fill: url(#textGradient);
-      animation: textMove 4s infinite ease-in-out;
+      dominant-baseline: middle;
     }
   </style>
 
-  <!-- Fluid shape morphing into a circle -->
-  <path class="fluid" d="M 40,100 Q 70,40 100,60 T 160,100 Q 130,160 100,140 T 40,100"/>
+  <!-- Group 1: Large circle with "#Visitors" text -->
+  <g>
+    <g>
+      <circle class="circle" r="30"/>
+      <text class="label" y="0">#Visitors</text>
+    </g>
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#pathLarge"/>
+    </animateMotion>
+  </g>
 
-  <!-- Animated text with royal blue gradient -->
-  <text x="50%" y="50%" class="moving-text">
-    <tspan>Count:</tspan>
-    <tspan x="50%" dy="1.2em">
-      <image href="https://profile-counter.glitch.me/analyticsleuth/count.svg" width="100" height="30"/>
-    </tspan>
-  </text>
+  <!-- Group 2: Small circle with visitor count image -->
+  <g>
+    <g>
+      <circle class="circle" r="20"/>
+      <image href="https://profile-counter.glitch.me/analyticsleuth/count.svg" x="-15" y="-7" width="30" height="15"/>
+    </g>
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto-reverse" begin="1s">
+      <mpath href="#pathSmall"/>
+    </animateMotion>
+  </g>
 </svg>
